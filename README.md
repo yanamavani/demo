@@ -1,4 +1,5 @@
 # demo
 this is my first git
 <br>
-author-yana [codewithyana]
+author-yana (developer)
+
